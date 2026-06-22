@@ -1,0 +1,153 @@
+[
+{
+"id": "project-01",
+"title": "ESP32 Drone & Flight Control System",
+"subtitle": "A custom quadcopter platform for flight control experimentation.",
+"description": "Designed and developed a drone prototype using ESP32, sensors, and motor drivers to explore flight dynamics and stabilization.",
+"longDescription": "Built a quadcopter prototype using ESP32, MPU6050, motor drivers, and coreless motors. The project focused on flight control, sensor integration, motor synchronization, and stabilization concepts. Development included experimenting with PID control, IMU data processing, wireless configuration tools, and embedded systems programming.",
+"image": "assets/projects/drone.jpeg",
+"imageAlt": "ESP32 drone flight control prototype",
+"category": "hardware",
+"tags": ["ESP32", "MPU6050", "PID Control", "PWM", "Flight Control", "Robotics", "Sensor Fusion", "Motor Driver"],
+"year": "2026",
+"role": "Embedded Systems Developer",
+"highlights": [
+"Integrated IMU-based orientation sensing.",
+"Developed multi-motor control architecture.",
+"Explored stabilization and flight control algorithms."
+]
+},
+
+{
+"id": "project-02",
+"title": "IoT-Based Motor Monitoring & Protection System",
+"subtitle": "Real-time motor health monitoring with automated protection logic.",
+"description": "Built an ESP32-based platform for monitoring motor performance and preventing unsafe operating conditions.",
+"longDescription": "Developed a motor monitoring system capable of measuring voltage, current, temperature, sound level, and RPM in real time. Sensor data was transmitted over Wi-Fi to a web dashboard for remote monitoring. Protection logic automatically reduced motor speed or shut down the system whenever operating parameters exceeded safe thresholds.",
+"image": "assets/projects/motorm.jpeg",
+"imageAlt": "Motor monitoring dashboard and hardware system",
+"category": "hardware",
+"tags": ["ESP32", "IoT", "Motor Control", "ACS712", "DHT11", "RPM Sensor", "Wi-Fi", "Web Dashboard", "Embedded Systems"],
+"year": "2026",
+"role": "Embedded Systems Developer",
+"highlights": [
+"Monitored five critical motor parameters.",
+"Implemented remote monitoring over Wi-Fi.",
+"Added automated motor protection mechanisms."
+]
+},
+
+{
+"id": "project-03",
+"title": "ESP32 RC Car",
+"subtitle": "A wireless robotic vehicle controlled through ESP32.",
+"description": "Built a remote-controlled robotic vehicle to explore embedded systems and motor control.",
+"longDescription": "Designed and developed a Wi-Fi controlled RC car using ESP32 and motor drivers. The project involved wireless communication, motor control, power management, and embedded programming. It served as a practical introduction to robotics and real-time control systems.",
+"image": "assets/projects/car.jpeg",
+"imageAlt": "ESP32 remote control car prototype",
+"category": "hardware",
+"tags": ["ESP32", "Robotics", "Motor Control", "Wi-Fi", "Embedded Systems", "Remote Control", "Electronics"],
+"year": "2026",
+"role": "Embedded Systems Developer",
+"highlights": [
+"Built a wireless robotic platform.",
+"Implemented real-time motor control.",
+"Integrated power and communication systems."
+]
+},
+
+{
+"id": "project-04",
+"title": "MOSFET Bidirectional Motor Driver",
+"subtitle": "A custom H-Bridge motor driver built from discrete components.",
+"description": "Designed and tested a MOSFET-based circuit for bidirectional DC motor control.",
+"longDescription": "Created a custom H-Bridge motor driver using MOSFETs to understand power electronics and motor control at a lower level. The project involved circuit design, component selection, testing, troubleshooting, and performance evaluation under different operating conditions.",
+"image": "assets/projects/bridge.jpeg",
+"imageAlt": "MOSFET H-Bridge motor driver circuit",
+"category": "hardware",
+"tags": ["MOSFET", "H-Bridge", "Motor Driver", "Power Electronics", "Circuit Design", "DC Motor Control"],
+"year": "2026",
+"role": "Hardware Developer",
+"highlights": [
+"Designed a custom H-Bridge architecture.",
+"Implemented bidirectional motor control.",
+"Gained practical experience in power electronics."
+]
+},
+
+{
+"id": "project-05",
+"title": "Tech o' Health - Electronic Health Record Platform",
+"subtitle": "A digital healthcare platform for unified medical records.",
+"description": "Designed a healthcare technology platform focused on secure and accessible medical record management.",
+"longDescription": "Tech o' Health is a digital health platform concept aimed at improving accessibility and management of patient health records. The project explored healthcare interoperability, patient-centric data ownership, medical record organization, and digital healthcare infrastructure.",
+"image": "assets/projects/ehr.jpeg",
+"imageAlt": "Electronic health record platform interface",
+"category": "software",
+"tags": ["Healthcare Technology", "EHR", "Digital Health", "System Design", "Healthcare Informatics", "Product Design"],
+"year": "2026",
+"role": "Founder & Developer",
+"highlights": [
+"Focused on healthcare interoperability.",
+"Designed patient-centered data workflows.",
+"Explored digital health infrastructure concepts."
+]
+},
+
+{
+"id": "project-06",
+"title": "PRITHVI - Geopolitical Intelligence Platform",
+"subtitle": "An interactive world map for tracking global events and strategic developments.",
+"description": "Developed a platform that visualizes international news and geopolitical developments through geographic context.",
+"longDescription": "PRITHVI is a geopolitical intelligence platform that allows users to explore countries on an interactive world map and access real-time information related to international affairs, trade activity, conflicts, energy markets, diplomatic developments, and economic events. The project focuses on transforming fragmented news into a geographically organized intelligence experience.",
+"image": "assets/projects/prithvi.jpeg",
+"imageAlt": "Interactive geopolitical intelligence map",
+"category": "software",
+"tags": ["Geopolitics", "World News", "Interactive Maps", "Data Visualization", "Global Affairs", "Information Systems"],
+"year": "2026",
+"role": "Creator & Product Designer",
+"highlights": [
+"Built an interactive country-based intelligence interface.",
+"Visualized geopolitical information geographically.",
+"Integrated economic and strategic context."
+]
+},
+
+{
+"id": "project-07",
+"title": "PID Tuning Dashboard",
+"subtitle": "A web-based tool for real-time controller tuning and calibration.",
+"description": "Developed a custom interface for adjusting PID parameters during embedded systems development.",
+"longDescription": "Created a dedicated dashboard for configuring and optimizing PID control systems. Originally built to support drone flight controller development, the platform enables rapid parameter adjustment, testing, and system calibration through a browser-based interface.",
+"image": "assets/projects/pid.jpeg",
+"imageAlt": "PID tuning and calibration dashboard",
+"category": "software",
+"tags": ["PID Control", "Control Systems", "ESP32", "HTML", "CSS", "JavaScript", "Web Dashboard", "Embedded Systems"],
+"year": "2026",
+"role": "Developer",
+"highlights": [
+"Built a browser-based tuning interface.",
+"Simplified controller calibration workflows.",
+"Reduced testing and iteration time."
+]
+},
+
+{
+"id": "project-08",
+"title": "Personal Portfolio Website",
+"subtitle": "A JSON-driven portfolio platform for showcasing engineering work.",
+"description": "Designed and developed a responsive portfolio website to document projects, research, and achievements.",
+"longDescription": "Built a modern portfolio platform using HTML, CSS, JavaScript, and JSON-based content management. The website was designed to showcase engineering projects, research activities, achievements, and technical experiences while remaining easy to maintain and expand over time.",
+"image": "assets/projects/web.jpeg",
+"imageAlt": "Personal engineering portfolio website",
+"category": "software",
+"tags": ["HTML", "CSS", "JavaScript", "JSON", "GitHub Pages", "Responsive Design", "Portfolio Development"],
+"year": "2026",
+"role": "Developer",
+"highlights": [
+"Built a fully responsive website.",
+"Implemented JSON-driven content architecture.",
+"Designed for long-term scalability and maintenance."
+]
+}
+]

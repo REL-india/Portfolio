@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "type": "publication",
+      "title": "Publication Title Placeholder",
+      "venue": "Conference or Journal Placeholder",
+      "abstract": "Placeholder for a publication abstract. Summarize the research question, method, result, and why the work matters.",
+      "authors": "Your Name, Collaborator Name",
+      "tags": ["HCI", "AI", "Systems", "Evaluation"],
+      "link": "https://example.com",
+      "date": "2026",
+      "status": "Published"
+    },
+    {
+      "type": "research project",
+      "title": "Research Project Placeholder",
+      "venue": "Lab, Studio, or Independent Research",
+      "abstract": "Placeholder for an active research project. Describe the prototype, experiment, dataset, evaluation plan, and current status.",
+      "authors": "Your Name",
+      "tags": ["Research", "Prototype", "Data", "Visualization"],
+      "link": "https://example.com",
+      "date": "2025",
+      "status": "Active"
+    },
+    {
+      "type": "patent",
+      "title": "Patent Placeholder",
+      "venue": "Patent Office or Filing Placeholder",
+      "abstract": "Placeholder for a patent, invention disclosure, or proprietary technical method. Include the high-level mechanism and use case.",
+      "authors": "Your Name, Co-inventor Name",
+      "tags": ["Patent", "AI", "Interface", "Automation"],
+      "link": "https://example.com",
+      "date": "2025",
+      "status": "Filed"
+    },
+    {
+      "type": "documentation",
+      "title": "Technical Documentation Placeholder",
+      "venue": "Product, Framework, or Open Source Project",
+      "abstract": "Placeholder for developer docs, API references, architecture notes, design system documentation, or technical explainers.",
+      "authors": "Your Name",
+      "tags": ["Documentation", "Developer Experience", "API", "Guides"],
+      "link": "https://example.com",
+      "date": "2024",
+      "status": "Maintained"
+    }
+  ]
+}

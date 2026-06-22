@@ -1,0 +1,151 @@
+{
+  "name": "Rajdeep Singh Parihar",
+  "shortName": "Parihar",
+  "profileImage": "assets/profile/rajdeep.jpeg",
+  "aboutImage": "assets/profile/about-photo.jpg",
+  "metaDescription": "Biomedical Engineering student exploring healthcare technology, embedded systems, medical innovation, and research-driven engineering projects.",
+  "titles": [
+   "Biomedical Engineering Student",
+    "Medical Technology Developer",
+    "Embedded Systems Builder",
+    "AI for Healthcare Enthusiast",
+    "Electronics Project Creator"
+  ],
+  "hero": {
+    "eyebrow": "Professional portfolio",
+    "headline": "Exploring Healthcare, Electronics, and Intelligent Systems",
+    "intro": "I am a Biomedical Engineering student passionate about healthcare technology, embedded systems, and engineering innovation. This portfolio showcases my projects, research, hackathon experiences, and ongoing journey in building solutions that bridge technology and human well-being.",
+    "buttons": [
+      {
+        "label": "View Projects",
+        "href": "#projects"
+      },
+      {
+        "label": "Contact Me",
+        "href": "#contact"
+      },
+      {
+        "label": "Download Resume",
+        "href": "#resume"
+      }
+    ]
+  },
+  "summary": "Exploring the intersection of healthcare, electronics, and intelligent systems through projects, research, and continuous learning.",
+  "bio": [
+  "I am a Biomedical Engineering student at Lovely Professional University with a growing interest in healthcare technology, embedded systems, and intelligent engineering solutions. My curiosity lies in understanding how technology can solve practical problems and improve the way people interact with healthcare systems.",
+  
+  "I enjoy working on projects that combine electronics, software, and biomedical concepts. From embedded systems and IoT-based prototypes to healthcare-focused digital solutions, I am particularly interested in building technologies that are functional, accessible, and capable of creating real-world impact. Through hackathons, technical competitions, and independent projects, I continuously expand my skills while exploring new areas of engineering and innovation.",
+  
+  "Beyond academics, I am an NCC Naval Wing Cadet who values discipline, leadership, and continuous self-improvement. I believe meaningful engineering begins with understanding a problem deeply before designing a solution. This portfolio documents my projects, research, achievements, and ongoing journey as I work toward contributing to the future of healthcare and technology."
+],
+  "profileImageAlt": "Rajdeep Singh Parihar",
+  "email": "Rajdeep.ind.2005@gmail.com",
+  "location": "Punjab, India",
+  "availability": "Open to selected opportunities",
+  "social": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://www.linkedin.com/in/rajdeep-singh-parihar-973b58378",
+    "twitter": "https://www.instagram.com/rajdeepvt_"
+  },
+  "contact": {
+  "headline": "Get In Touch",
+  "intro": "Project collaborations, internships, research opportunities, and technical discussions.",
+  "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScGdsDzWV858r2GEb8kqJ0puKzXcXpA7OVCf9vV3TRLUngtkg/viewform?embedded=true"
+},
+  "highlights": [
+  {
+    "label": "01",
+    "title": "Healthcare Technology",
+    "description": "Exploring biomedical engineering concepts and healthcare-focused solutions through projects, research, and emerging technologies."
+  },
+  {
+    "label": "02",
+    "title": "Embedded Systems",
+    "description": "Building hardware and software prototypes using microcontrollers, sensors, electronics, and real-world engineering applications."
+  },
+  {
+    "label": "03",
+    "title": "Research & Innovation",
+    "description": "Participating in hackathons, technical competitions, and research activities while transforming ideas into practical engineering solutions."
+  },
+  {
+    "label": "04",
+    "title": "Leadership & Discipline",
+    "description": "Developing teamwork, responsibility, and leadership skills through NCC Naval Wing activities and collaborative technical projects."
+  }
+],
+  "stats": [
+    {
+      "value": 5,
+      "suffix": "",
+      "label": "Patents Written"
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "Projects Built"
+    },
+    {
+      "value": 4,
+      "suffix": "+",
+      "label": "Hackathons"
+    },
+    {
+      "value": 95,
+      "suffix": "%tile",
+      "label": "NEET Exam"
+    }
+  ],
+  "resume": {
+    "title": "Resume Preview Placeholder",
+    "image": "assets/resumepic.jpeg",
+    "description": "Replace the placeholder PDF path with your real resume. The preview panel is generated with CSS so the layout remains complete before a PDF is added.",
+    "previewLabel": "Resume / CV",
+    "lastUpdated": "Dec 2025",
+    "format": "PDF",
+    "size": "500Kb",
+    "status": "Download ready",
+    "url": "assets/resume.pdf"
+  },
+  "gallery": [
+  {
+    "image": "assets/gallery/pic1.jpeg",
+    "alt": "Hackathon",
+    "caption": "Medha hackathon"
+  },
+  {
+    "image": "assets/gallery/pic2.jpeg",
+    "alt": "Internship",
+    "caption": "Biomedical engineering Internship Certificate"
+  },
+  {
+    "image": "assets/gallery/pic3.jpeg",
+    "alt": "Motor monitoring project",
+    "caption": "Started with curiosity, stayed for the challange."
+  },
+  {
+    "image": "assets/gallery/pic4.jpeg",
+    "alt": "SIH",
+    "caption": "SIH Team"
+  },
+  {
+    "image": "assets/gallery/pic5.jpeg",
+    "alt": "Recognition",
+    "caption": "Innovation Summit, LPU"
+  },
+  {
+    "image": "assets/gallery/pic6.jpeg",
+    "alt": "SIH",
+    "caption": "SIH-1st hackathon won together"
+  }
+],
+  "footer": {
+    "copyright": "Copyright 2026 Rajdeep Singh Parihar. All rights reserved.",
+    "links": [
+      "About",
+      "Projects",
+      "Skills",
+      "Contact"
+    ]
+  }
+}

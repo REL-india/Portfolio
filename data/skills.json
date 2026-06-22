@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "name": "Embedded Systems",
+      "label": "Technical",
+      "skills": [
+        {
+          "name": "ESP32 ,Arduino",
+          "level": 96
+        },
+        {
+          "name": "Sensor Interfacing",
+          "level": 92
+        },
+        {
+          "name": "PID, PWM",
+          "level": 88
+        },
+        {
+          "name": "I2C Communication",
+          "level": 86
+        }
+      ]
+    },
+    {
+      "name": "Electronics and Hardware",
+      "label": "Technical",
+      "skills": [
+        {
+          "name": "Circuit Design",
+          "level": 90
+        },
+        {
+          "name": "MOSFET Drivers",
+          "level": 84
+        },
+        {
+          "name": "PCB Prototyping",
+          "level": 92
+        },
+        {
+          "name": "Electronic Troubleshooting",
+          "level": 88
+        }
+      ]
+    },
+    {
+      "name": "Robotics and Control Systems",
+      "label": "Technical",
+      "skills": [
+        {
+          "name": "Flight Control System",
+          "level": 88
+        },
+        {
+          "name": "RC Systems",
+          "level": 82
+        },
+        {
+          "name": "Sensor Fusion",
+          "level": 84
+        },
+        {
+          "name": "Real-Time Control",
+          "level": 86
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "label": "Softwares",
+      "skills": [
+        {
+          "name": "VS Code",
+          "level": 88
+        },
+        {
+          "name": "Proteus",
+          "level": 90
+        },
+        {
+          "name": "Arduino IDE",
+          "level": 82
+        },
+        {
+          "name": "VS Code",
+          "level": 84
+        }
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "label": "Soft Skills",
+      "skills": [
+        {
+          "name": "Presentation Skills",
+          "level": 92
+        },
+        {
+          "name": "Technical Communication",
+          "level": 86
+        },
+        {
+          "name": "Problem Solving",
+          "level": 90
+        },
+        {
+          "name": "Project Management",
+          "level": 94
+        }
+      ]
+    },
+    {
+      "name": "Collaborative Skills",
+      "label": "Leadership",
+      "skills": [
+        {
+          "name": "Team work",
+          "level": 94
+        },
+        {
+          "name": "Mentoring",
+          "level": 86
+        },
+        {
+          "name": "Conflict Resolution",
+          "level": 84
+        },
+        {
+          "name": "Time Management",
+          "level": 88
+        }
+      ]
+    }
+  ]
+}

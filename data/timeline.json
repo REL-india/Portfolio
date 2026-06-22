@@ -1,0 +1,53 @@
+{
+  "entries": [
+  {
+    "type": "education",
+    "title": "Higher Secondary Education",
+    "organization": "Kendriya Vidyalaya Dwarka Sector 8",
+    "period": "2023",
+    "description": "Completed senior secondary education with Physics, Chemistry, and Biology."
+  },
+  {
+    "type": "achievement",
+    "title": "NEET Qualification",
+    "organization": "National Eligibility cum Entrance Test",
+    "period": "2025",
+    "description": "Qualified NEET and chose Biomedical Engineering as a career path."
+  },
+  {
+    "type": "education",
+    "title": "B.Tech Biomedical Engineering",
+    "organization": "Lovely Professional University",
+    "period": "2025 - 2029",
+    "description": "Pursuing undergraduate studies in biomedical engineering."
+  },
+  {
+    "type": "achievement",
+    "title": "Smart India Hackathon",
+    "organization": "Lovely Professional University",
+    "period": "2025",
+    "description": "Selected as the winning team in the university-level Smart India Hackathon evaluation round, advancing a technology-driven solution through competitive project assessment and innovation challenges."
+  },
+  {
+    "type": "achievement",
+    "title": "MEDHA Hackathon",
+    "organization": "IIT Bombay",
+    "period": "2025",
+    "description": "Worked on innovative problem-solving and technology development."
+  },
+  {
+    "type": "Research",
+    "title": "Patent Application",
+    "organization": "Research & Innovation",
+    "period": "2026",
+    "description": "Submitted multiple patent applications related to engineering innovation."
+  },
+  {
+    "type": "goal",
+    "title": "Future Goals",
+    "organization": "Healthcare Technology & Innovation",
+    "period": "Future",
+    "description": "Contribute to medical technology, research, and impactful engineering solutions."
+  }
+]
+}

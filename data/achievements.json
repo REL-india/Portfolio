@@ -1,0 +1,72 @@
+{
+"categories": [
+{
+"name": "Internship",
+"items": [
+{
+"title": "BioMedical Internship",
+"organization": "Mahaveer Hospital, Indore",
+"date": "2026",
+"description": "Completed a winter internship at Mahaveer Hospital, Indore, where I gained exposure to the role of biomedical engineers in a hospital environment. The experience involved observing medical equipment management, maintenance procedures, biomedical instrumentation, and the integration of healthcare technology to support patient care and clinical operations."
+}
+]
+},
+{
+"name": "Certifications",
+"items": [
+{
+"title": "BioMedical Engineering",
+"organization": "Mahaveer Hospital, Indore",
+"date": "2026",
+"description": "Completed foundational training in biomedical engineering concepts, medical equipment management, hospital technology systems, and healthcare engineering practices through hospital-based exposure."
+},
+{
+"title": "Python programming",
+"organization": "SoloLearn",
+"date": "2026",
+"description": "Completed training in Python programming fundamentals including variables, data structures, functions, object-oriented programming, and problem-solving techniques."
+}
+]
+},
+{
+"name": "Competitions",
+"items": [
+{
+"title": "Smart India Hackathon",
+"organization": "Lovely Professional University",
+"date": "2025",
+"description": "Part of the winning team in the university-level Smart India Hackathon selection process, developing an innovative technology solution and advancing through competitive project evaluation."
+},
+{
+"title": "Medha Hackathon",
+"organization": "IIT Bombay",
+"date": "2025",
+"description": "Participated in a national innovation-focused hackathon, collaborating on technology-driven solutions while gaining experience in rapid prototyping, teamwork, and problem-solving."
+},
+{
+"title": "Resurgence Hackathon",
+"organization": "Lovely Professional University",
+"date": "2026",
+"description": "Participated in a competitive innovation challenge involving idea development, technical implementation, and collaborative solution design under constrained timelines."
+}
+]
+},
+{
+"name": "Recognitions",
+"items": [
+{
+"title": "Patent Submission Under Evaluation",
+"organization": "Research & Innovation",
+"date": "2026",
+"description": "Prepared and submitted a patent application based on an engineering innovation. The submission is currently undergoing evaluation and review."
+},
+{
+"title": "Engineering Project Portfolio",
+"organization": "Independent Development",
+"date": "2024-2026",
+"description": "Designed and developed multiple projects spanning healthcare technology, embedded systems, robotics, IoT, software development, and control systems engineering."
+}
+]
+}
+]
+}
